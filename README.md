@@ -1,1 +1,1 @@
-Please npm i
+Simple solar system designed with Three.js
